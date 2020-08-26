@@ -4,7 +4,7 @@
 
 <b>Programming</b>
 
-I started to learn programming when I was fiveteen. It was vary fascinating to me. I began from C++ and tried many other technologies. I'm familiar with C++ and modern C++ 11/14. I know Python, C# and basics of .Net platform. I programm on Linux and Windows and want to develop my skills. I am interested in machine learning and physics.
+I started to learn programming when I was fifteen. It was vary fascinating to me. I began from C++ and tried many other technologies. I'm familiar with C++ and modern C++ 11/14. I know Python, C# and basics of .Net platform. I programm on Linux and Windows and want to develop my skills. I am interested in machine learning and physics.
 
 <b>Education</b>
 
