@@ -8,7 +8,7 @@ I started to learn programming when I was fifteen. It was vary fascinating to me
 
 <b>Education</b>
 
-At this moment I am student at the Poznan University of Technology, learning IT (third year). 
+At this moment I am student at the Poznan University of Technology, learning IT (fourth year). 
 
 ## Projects:
 
