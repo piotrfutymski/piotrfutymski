@@ -8,7 +8,7 @@ I started to learn programming when I was fifteen. It was vary fascinating to me
 
 <b>Education</b>
 
-At this moment I am student at the Poznan University of Technology, learning IT (fourth year). 
+I am engineer of IT. I'm studying physics master.
 
 ## Projects:
 
@@ -16,13 +16,13 @@ At this moment I am student at the Poznan University of Technology, learning IT 
 
 This is an implementation of Hartree Fock method for computation in Quantum Chemistry. My program allows to compute energies of small molecules and plots theirs orbitals.
 
+### APL
+
+A Java application with react frontend created with my colleagues as project for IT software engineering classes. It is used for hel with learning sorting and graph algorithms.
+
 ### Neural Viewer
 
 This app is created in .Net platform and contains my own neural network implementation. It allows to observe how neurons are activating and connections between them are changing while more and more data is given.
-
-### Text Transformer
-
-A Java application with simple REST api in spring, created with my colleagues as project for IT software engineering classes. It is used for text convertion.
 
 <!--
 **piotrfutymski/piotrfutymski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
