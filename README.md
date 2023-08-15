@@ -18,7 +18,7 @@ This is an implementation of Hartree Fock method for computation in Quantum Chem
 
 ### APL
 
-A Java application with react frontend created with my colleagues as project for IT software engineering classes. It is used for hel with learning sorting and graph algorithms.
+A Java application with react frontend created with my colleagues as project for IT software engineering classes. It is used to help understend sorting and graph algorithms.
 
 <!--
 **piotrfutymski/piotrfutymski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
