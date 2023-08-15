@@ -4,7 +4,7 @@
 
 <b>Programming</b>
 
-I started to learn programming when I was fifteen. It was vary fascinating to me. I began from C++ and tried many other technologies. I'm familiar with C++ and modern C++ 11/14. I know Python, Java and concepts conected with it (Spring). I programm on Linux and Windows and want to develop my skills. I am interested in machine learning and physics.
+Skills: Java, Spring, C++, Rust
 
 <b>Education</b>
 
@@ -19,10 +19,6 @@ This is an implementation of Hartree Fock method for computation in Quantum Chem
 ### APL
 
 A Java application with react frontend created with my colleagues as project for IT software engineering classes. It is used for hel with learning sorting and graph algorithms.
-
-### Neural Viewer
-
-This app is created in .Net platform and contains my own neural network implementation. It allows to observe how neurons are activating and connections between them are changing while more and more data is given.
 
 <!--
 **piotrfutymski/piotrfutymski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
