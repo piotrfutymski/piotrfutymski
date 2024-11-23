@@ -8,7 +8,7 @@ Skills: Java, Spring, C++, Rust
 
 <b>Education</b>
 
-I am engineer of IT. I'm studying physics master.
+I am engineer of IT and Master of Science in Physics.
 
 ## Projects:
 
